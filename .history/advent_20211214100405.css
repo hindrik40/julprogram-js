@@ -1,0 +1,17 @@
+main#adventCalender{
+    width: 90%;
+    height: 90vh;
+    background-image: url(images/jul6.jpeg);
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+main>div{
+   min-width: 50px;
+    height: 50px;
+    border:solid 1px black;
+    background-color: rgba(255,0,0,0.7);
+    
+    justify-content: center;
+    align-items: center;
+}

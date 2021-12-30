@@ -1,0 +1,6 @@
+main#adventCalender{
+    width: 90%;
+    height: 90vh;
+    background-image: url(images/jul6.jpeg);
+    background-size: cover;
+}
